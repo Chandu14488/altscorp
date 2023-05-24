@@ -1,0 +1,2 @@
+# altscorp
+Automation tests
