@@ -4,7 +4,7 @@ Pre-condition- Node.js should be installed.
 
 Step 1: Clone the repo in local system using:
 
-git clone https://gitlab.com/metacx/mcx-automation.git
+git clone https://github.com/Chandu14488/altscorp.git
 
 Step 2: Open the terminal and move to project root folder 'mcx-automation' and make sure package.json file is there & then use below command to install all the dependencies
 
